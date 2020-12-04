@@ -4,7 +4,7 @@ class HelloWorld
     // Prints "Hello, World" to the terminal window. 
     public static void main(String args[]) 
     { 
-        System.out.println("Hello World!, WELCOME TO LEENA IT"); 
-        System.out.println("JENKINS - CONTINOUS INTEGRATION"); 
+        System.out.println("Hello World!, WELCOME TO jenkins"); 
+        System.out.println("JENKINS - CONTINOUS INTEGRATION/cd"); 
     } 
 } 
